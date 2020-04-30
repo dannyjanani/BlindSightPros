@@ -6,7 +6,7 @@ Inspired by watching a blind person walk from the train station to the bank and 
 
 * Given a budget of $50, we had to create a sweater that detects objects in front or on the sides of a person. 
 
-* The first micro-controller was used to detect objects
+* The first microcontroller was used to detect objects
   * Using 3 Ultrasonic sensors, placed in front and on the sides of the person, the person would receive feedback of any    obstructions.
   * Based on the direction an obstruction is detected, a different sound will be played telling the person where the obstruction is. 
   * The beep would get faster and faster till it's a steady beat indicating how close the object is.
