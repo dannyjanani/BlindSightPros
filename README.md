@@ -15,4 +15,8 @@ Inspired by watching a blind person walk from the train station to the bank and 
 * Another microcontroller was used to track foot steps and direction. 
   * An accelerometer was connected to detect and make sure the person is walking straight.
     * If one wears a blindfold, it's very hard to walk straight and track direction, so we had to include this feature.
-  * 
+    * If the person is veering off course, vibrators placed on each hand will tell which way the person needs to turn.
+    * It would vibrate on left hand if he/she needs to veer left and right hand if he/she needs to veer right.
+  * A Force-Sensitive Resistor (FSR) was connected to detect footsteps.
+    * If the navigation says, in 50 feet turn left, the left vibrator would buzz.
+    * If the navigation says, in 50 feet turn right, the right vibrator would buzz.
