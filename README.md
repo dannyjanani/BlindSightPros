@@ -6,12 +6,50 @@ Inspired by watching a blind person walk from the train station to the bank and 
 
 Using these two microcontrollers, we were able to direct the user to the endpoint, safely.
 
-## Project Requirements
+## Project Goals
 
+* Team of 3 people.
 * Needs to be universal.
-* Navigate the user from Point A to Point B without hitting obstructions.
+* Navigate the user from Makerspace are to the cafeteria without hitting obstructions.
+* Buy pizza slice in the cafeteria.
 * Give user feedback to know where the obstuctions are and which direction they should go.
 * Allow user to have both hands free for holding things.
 * Ability to replace and enhance the "walking stick".
-    
+* Develop electronic/embedded system that would help complete the task.
+* The user must be blindfolded the entire time, no visual feedback allowed.
+* Teammates are not allowed to help the person navigate.
+* No direct tactile feedback (you can use a stick, but cannot feel with a stick, placing a sensor on it is fine).
+
+## Provided Materials
+
+* 3x HC-SR04 Ultrasonic Sensors
+* 1x GP2Y0A21TK0F IR Sensor
+* 1x Stackable Proto Shield
+* 5x Screw Terminal Blocks
+* Unlimited Maker space resources (3d printing, laser cutting, etc.)
+* $50 Budget per team used for:
+  * 2x Arduino UNO Metro
+  * 2x Vibrators
+  * 1x Piezo Buzzer
+  * 1x Accelerometer
+  * 1x FSR (Force Sensitive Resistor)
+  * 1x Jumper Cables
+  * 1x Breadboard
+  * 1x Pair of gloves
+  * 1x Rope
+
 ## What I used?
+
+* Prototyping:
+  * Laser Cutting
+  * 3D Printing
+  * Soldering
+  
+* Materials:
+  * See "Provided Materials" Section
+  
+* Software:
+  * C
+  * Arduino IDE
+  * SolidWorks
+  * Ultimaker Cura
