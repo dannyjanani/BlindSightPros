@@ -20,3 +20,5 @@ Inspired by watching a blind person walk from the train station to the bank and 
   * A Force-Sensitive Resistor (FSR) was connected to detect footsteps.
     * If the navigation says, in 50 feet turn left, the left vibrator would buzz.
     * If the navigation says, in 50 feet turn right, the right vibrator would buzz.
+    
+# Skills Learned/Improved
