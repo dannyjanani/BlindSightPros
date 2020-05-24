@@ -23,4 +23,4 @@ Using these two microcontrollers, we were able to direct the user to the endpoin
     * If the navigation says, in 50 feet turn left, the left vibrator would buzz.
     * If the navigation says, in 50 feet turn right, the right vibrator would buzz.
     
-## Skills Learned/Improved
+## What I used?
