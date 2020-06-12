@@ -1,6 +1,6 @@
 # BlindSightPros
 
-A device to help those who are visually disabled, navigate without the use of a walking stick.
+A device with sensors to help someone who isvisually disabled navigate from a location without the need for a walking stick.
 
 ## Project Overview
 
