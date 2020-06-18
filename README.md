@@ -22,9 +22,11 @@ Using these two microcontrollers, we were able to direct the user to the endpoin
 * Teammates are not allowed to help the person navigate.
 * No direct tactile feedback (you can use a stick, but cannot feel with a stick, placing a sensor on it is fine).
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
+## Gallery
+
+Soldering                  | Construction               |  Microcontroller Setup
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Soldering.jpg)  | ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
 
 ## Provided Materials
 
