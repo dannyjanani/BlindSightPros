@@ -49,6 +49,10 @@ Soldering                  | Construction               |  Microcontroller Setup
 ## Skills Used
 
 * Prototyping:
+* Software:
+  * C
+
+* Prototyping:
   * Laser Cutting
   * 3D Printing
   * Soldering
