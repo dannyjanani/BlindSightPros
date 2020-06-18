@@ -22,6 +22,10 @@ Using these two microcontrollers, we were able to direct the user to the endpoin
 * Teammates are not allowed to help the person navigate.
 * No direct tactile feedback (you can use a stick, but cannot feel with a stick, placing a sensor on it is fine).
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
+
 ## Provided Materials
 
 * 3x [HC-SR04 Ultrasonic Sensors](https://www.adafruit.com/product/3942)
@@ -40,16 +44,13 @@ Using these two microcontrollers, we were able to direct the user to the endpoin
   * 1x Pair of gloves
   * 1x Rope
 
-## What I used?
+## Skills Used
 
 * Prototyping:
   * Laser Cutting
   * 3D Printing
   * Soldering
-  
-* Materials:
-  * See "Provided Materials" Section
-  
+
 * Software:
   * C
   * Arduino IDE
