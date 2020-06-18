@@ -28,10 +28,6 @@ Soldering                  | Construction               |  Microcontroller Setup
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Soldering.jpg)  | ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
 
-Initial Construction       | Test Run                  |  Presentation
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Initial%20Construction.mp4)  | ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
-
 ## Provided Materials
 
 * 3x [HC-SR04 Ultrasonic Sensors](https://www.adafruit.com/product/3942)
