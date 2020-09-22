@@ -24,7 +24,7 @@ Using these two microcontrollers, we were able to direct the user to the endpoin
 
 ## Gallery
 
-Soldering                  | Construction               |  Microcontroller Setup
+Soldering                  | Construction              |  Microcontroller Setup
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Soldering.jpg)  | ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
 
